@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'PanCake';
+    src: url('/C:/Lorena/Users/Desktop/CadUsuario/Fonte/PanCake/PancakeBatterDemoBold.ttf'), format('ttf'),
+         url('/CadUsuario/Fonte/PanCake/PancakeBatterDemoBold.ttf'), format('ttf');
+    font-weight: normal;
+    font-style: normal;
+            
+        }
+
+@font-face {
+    font-family: 'Roboto-Italic.ttf';
+    src: url('/CadUsuario/Fonte/Roboto/Roboto-Italic.ttf'), format('ttf'),
+         url('/CadUsuario/Fonte/Roboto/Roboto-Italic.ttf'), format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+    }
+
+@font-face {
+    font-family: 'Roboto-Medium.ttf';
+    src: url('/CadUsuario/Fonte/Roboto/Roboto-MediumItalic.ttf'), format('ttf'),
+         url('/CadUsuario/Fonte/Roboto/Roboto-MediumItalic.ttf'), format('ttf');
+    font-weight: normal;
+    font-style: normal;
+            
+    }
+
+@font-face {
+    font-family: 'Roboto-Medium.ttf';
+    src: url('/CadUsuario/Fonte/Roboto/Roboto-Medium.ttf'), format('ttf'),
+         url('/CadUsuario/Fonte/Roboto/Roboto-Medium.ttf'), format('ttf');
+    font-weight: normal;
+    font-style: normal;
+                    
+    }
